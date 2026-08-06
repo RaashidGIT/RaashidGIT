@@ -46,19 +46,6 @@ A mobile-based application designed to streamline transit tracking, scheduling, 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/RaashidGIT">
-    <img src="https://github-readme-stats.vercel.app/api?username=RaashidGIT&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/RaashidGIT">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaashidGIT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-raashid-k-783815224/)
