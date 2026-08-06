@@ -1,6 +1,8 @@
 # Hi, I'm Muhammed Raashid K 👋
 
-🎓 M.Sc. Computer Science | 🔧 AI & Machine Learning Engineer | 🤖 Computer Vision & Deep Learning | 📱 Mobile App Developer | 📍 Calicut, Kerala
+🎓 M.Sc. Computer Science | 🔧 AI & Machine Learning Engineer | 🤖 Computer Vision & Deep Learning | 📱 Mobile App Developer
+
+📍 Calicut, Kerala
 
 ### 👨‍💻 About Me
 
