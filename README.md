@@ -4,14 +4,6 @@
 
 📍 Calicut, Kerala
 
-### 👨‍💻 About Me
-
-* 🔭 I'm currently developing AI-driven medical imaging solutions for clinical decision support.
-* 🌱 Passionate about bridging the gap between advanced deep learning architectures and real-world healthcare applications.
-* 💡 I love building high-accuracy object detection and quantification systems using the latest YOLO frameworks.
-* 📫 Reach me at: **muhdraashid@gmail.com** | **[LinkedIn]([url](https://www.linkedin.com/in/muhammed-raashid-k-783815224/))**
-* ⚡ Fun fact: **Avid gamer, anime enthusiast, and lifelong learner.**
-
 ---
 
 ### 🛠️ Tech Stack & Tools
